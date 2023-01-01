@@ -34,6 +34,10 @@ TestNG is a powerful testing framework, an enhanced version of JUnit which was i
  8.	I have created separate tests and page classes for each region to show page object model approach.
  9.	I have saved validation data under src/test/resources in config.properties file.Since we have only three test cases I have added in values in config file else excel read approach can be used.
  
+ ## Reporting using extent report
+ I have used extent report to have a customized report.Kindly find the screenshot of generated report.
+ <img src-"ReportScreenshot.PNG">
+ 
 ## Execution from IDE
 
 	You can start execution from testing.xml file after cloning the project.
