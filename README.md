@@ -24,7 +24,6 @@ TestNG is a powerful testing framework, an enhanced version of JUnit which was i
 6.	Inbuilt reporting.
 
 ## Framework Architecture
-
  1.     src/main/java/com.stcTv- It contains all framework packages
  2.	src/test/java/ - It contains test cases and base class.
  3.	src/test/resources – It contains config file.
