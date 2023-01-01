@@ -18,33 +18,33 @@ TestNG is a powerful testing framework, an enhanced version of JUnit which was i
 6.	Inbuilt reporting.
 
 ## Framework Architecture
- • 	src/main/java/com.stcTv- It contains all framework packages
- •	src/test/java/ - It contains test cases and base class.
- •	src/test/resources – It contains config file.
- •	pom file which has all needed dependency
- •	testng.xml to run the test script
- •	My framework will support parallel execution,I have implemented it with the help of thread local
- •	It will also support other browsers.
+ 1. 	src/main/java/com.stcTv- It contains all framework packages
+ 2.	src/test/java/ - It contains test cases and base class.
+ 3.	src/test/resources – It contains config file.
+ 4.	pom file which has all needed dependency
+ 5.	testng.xml to run the test script
+ 6.	My framework will support parallel execution,I have implemented it with the help of thread local
+ 7.	It will also support other browsers.
 
 ## Execution from IDE
 
-•	You can start execution from testing.xml file after cloning the project.
+	You can start execution from testing.xml file after cloning the project.
 
 
 ## Set-Up prerequisites.
 
-•	Java version - jdk 1.8.0_281,
-•	Maven version - apache maven 3.8.1,
-•	maven-surefire-plugin - 3.0.0-M1
-•	IntelliJ/Eclipse Cucumber plugins
+1.	Java version - jdk 1.8.0_281,
+2.	Maven version - apache maven 3.8.1,
+3.	maven-surefire-plugin - 3.0.0-M1
+4.	IntelliJ/Eclipse Cucumber plugins
 
 ## Maven Dependencies.
 
-•	Testng - 7.4.0
-•	owner - 1.0.12
-•	junit - 4.13.2
-•	webdrivermanager - 5.0.3
-•	selenium-java - 4.0.0
+1.	Testng - 7.4.0
+2.	owner - 1.0.12
+3.	junit - 4.13.2
+4.	webdrivermanager - 5.0.3
+5.	selenium-java - 4.0.0
 
 
 
