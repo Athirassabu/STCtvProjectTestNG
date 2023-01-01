@@ -5,9 +5,10 @@ Steps
 Kuwait and Baharin)
 
 ## Test cases created:
-1.Validation for KSA region-This test case will validate type of subscription,price and currency for KSA region
-2.Validation for Bahrain region-This test case will validate type of subscription,price and currency for Bahrain region
-3.Validation for Kuwait region-This test case will validate type of subscription,price and currency for Kuwait region
+
+1. Validation for KSA region-This test case will validate type of subscription,price and currency for KSA region
+2. Validation for Bahrain region-This test case will validate type of subscription,price and currency for Bahrain region
+3. Validation for Kuwait region-This test case will validate type of subscription,price and currency for Kuwait region
 
 # selenium-TestNG-java-maven
 
