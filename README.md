@@ -10,20 +10,18 @@ TestNG framework provides the following features −
 •	Inbuilt reporting.
 
 ## Framework Architecture
-•	src/main/java/com.wsp- It contains all framework packages
+•	src/main/java/com.stcTv- It contains all framework packages
 •	src/test/java/ - It contains test cases and base class.
-•	src/test/resources – It contains config file and test data excel.
-
-## Execution from CMD
-
-•	git clone https://github.com/Athirassabu/WeatherShopperProject
-•	cd weathershopper
-•	Run mvn clean test in cmd prompt for parallel execution.
+•	src/test/resources – It contains config file.
+•	pom file which has all needed dependency
+•	testng.xml to run the test script
+•	My framework will support parallel execution,I have implemented it with the help of thread local
+•	It will also support other browsers.
 
 ## Execution from IDE
 
-•	You can start execution from testing.xml file.
-•	You can run mvn clean install Or mvn clean verify Or mvn clean testing cmd for parallel execution from terminal.
+•	You can start execution from testing.xml file after cloning the project.
+
 
 ## Set-Up prerequisites.
 
