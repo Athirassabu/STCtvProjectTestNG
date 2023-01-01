@@ -4,6 +4,11 @@ Steps
 2. Validate the Subscription Packages – Type & Price and Currency for all Countries (SA /
 Kuwait and Baharin)
 
+## Test cases created:
+1.Validation for KSA region-This test case will validate type of subscription,price and currency for KSA region
+2.Validation for Bahrain region-This test case will validate type of subscription,price and currency for Bahrain region
+3.Validation for Kuwait region-This test case will validate type of subscription,price and currency for Kuwait region
+
 # selenium-TestNG-java-maven
 
 Automation Testing Using Java, Selenium with TestNg.
@@ -26,7 +31,9 @@ TestNG is a powerful testing framework, an enhanced version of JUnit which was i
  5.	testng.xml to run the test script
  6.	My framework will support parallel execution,I have implemented it with the help of thread local
  7.	It will also support other browsers.
-
+ 8.	I have created separate tests and page classes for each region to show page object model approach.
+ 9.	I have saved validation data under src/test/resources in config.properties file.Since we have only three test cases I have added in values in config file else excel read approach can be used.
+ 
 ## Execution from IDE
 
 	You can start execution from testing.xml file after cloning the project.
