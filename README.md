@@ -1,3 +1,9 @@
+## Abstract Idea about the task:
+Steps
+1. Navigate to the following URL https://subscribe.stctv.com/
+2. Validate the Subscription Packages – Type & Price and Currency for all Countries (SA /
+Kuwait and Baharin)
+
 # selenium-TestNG-java-maven
 Automation Testing Using Java, Selenium with TestNg.
 TestNG is a powerful testing framework, an enhanced version of JUnit which was in use for a long time before TestNG came into existence. NG stands for 'Next Generation'.
