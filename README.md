@@ -8,7 +8,7 @@ Kuwait and Baharin)
 
 Automation Testing Using Java, Selenium with TestNg.
 TestNG is a powerful testing framework, an enhanced version of JUnit which was in use for a long time before TestNG came into existence. NG stands for 'Next Generation'.
-TestNG framework provides the following features −
+# TestNG framework provides the following features
 
 1.	Annotations help us organize the tests easily.
 2.	Flexible test configuration.
@@ -18,13 +18,13 @@ TestNG framework provides the following features −
 6.	Inbuilt reporting.
 
 ## Framework Architecture
-•	src/main/java/com.stcTv- It contains all framework packages
-•	src/test/java/ - It contains test cases and base class.
-•	src/test/resources – It contains config file.
-•	pom file which has all needed dependency
-•	testng.xml to run the test script
-•	My framework will support parallel execution,I have implemented it with the help of thread local
-•	It will also support other browsers.
+ • 	src/main/java/com.stcTv- It contains all framework packages
+ •	src/test/java/ - It contains test cases and base class.
+ •	src/test/resources – It contains config file.
+ •	pom file which has all needed dependency
+ •	testng.xml to run the test script
+ •	My framework will support parallel execution,I have implemented it with the help of thread local
+ •	It will also support other browsers.
 
 ## Execution from IDE
 
